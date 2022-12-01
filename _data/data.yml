@@ -7,47 +7,35 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Filip Piechowski
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: f.piechowski@gmail.com
+    phone: 501 606 802
+    timezone: Europe/Warsaw
+    citizenship: Poland
+    website: fpiechowski.github.io
+    linkedin: https://www.linkedin.com/in/filip-piechowski-3815b2141/
+    github: https://github.com/fpiechowski/
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Polish
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Investing
           link:
 
-        - item: Snowboarding
+        - item: First Worlds Problems
           link:
 
         - item: Cooking
@@ -56,12 +44,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      From a startup to a corporation, then mid-size businesses. 
+      I'm able to adapt to any work environment providing the highest quality programming work.
+      I've been developing backend services for years getting to know the best practices, technology stacks, and methodologies.
+      Throughout those years I've made myself proficient with the most popular software development approaches, 
+      from object-oriented to purely functional, from synchronous to asynchronous and reactive, and from monoliths to microservices and serverless.
+      Recently I grow my skillset by adapting Flutter as the frontend solution in my toolbox to get acquainted with all software development areas.
+      
 education:
     title: Education
     info:
