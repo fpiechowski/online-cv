@@ -15,7 +15,6 @@ sidebar:
     phone: 501 606 802
     timezone: Europe/Warsaw
     citizenship: Poland
-    website: fpiechowski.github.io
     linkedin: https://www.linkedin.com/in/filip-piechowski-3815b2141/
     github: https://github.com/fpiechowski/
 
@@ -32,13 +31,8 @@ sidebar:
       title: Interests
       info:
         - item: Investing
-          link:
-
         - item: First Worlds Problems
-          link:
-
         - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
@@ -101,28 +95,28 @@ skills:
     toolset:
     
       - name: Java
-        level: 100
+        level: 100%
 
       - name: Kotlin
-        level: 100
+        level: 100%
 
       - name: Flutter
-        level: 50
+        level: 50%
         
       - name: Spring Boot
-        level: 75
+        level: 75%
       
       - name: PostgreSQL
-        level: 75
+        level: 75%
 
       - name: Docker
-        level: 75
+        level: 75%
 
       - name: AWS
-        level: 50
+        level: 50%
         
       - name: Functional Programming
-        level: 75
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
