@@ -98,6 +98,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+    
       - name: Java
         level: Expert
 
@@ -106,6 +107,9 @@ skills:
 
       - name: Flutter
         level: Intermediate
+        
+      - name: Spring Boot
+        level: Advanced
       
       - name: PostgreSQL
         level: Advanced
@@ -115,6 +119,9 @@ skills:
 
       - name: AWS
         level: Intermediate
+        
+      - name: Functional Programming
+        level: Advanced
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
