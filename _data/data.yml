@@ -63,19 +63,13 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Intern & Junior Java Developer
-        time: Feb 2018 - Aug 2018
-        company: Softja & Kanga Exchange
+    - role: Kotlin & Scala Developer
+        time: Aug 2021 - present
+        company: Schibsted Tech Polska
         details: |
-          During the first weeks of my employment I has been verified and delegated to a new and more complex project of cryptocurrency exchange platform.
-          Working with a small team I was responsible for implementing exchange orders matching algorithm as well as complete development of a backoffice application.
-          I gained my first experience with Actor Model based architecture and application deployment methods.
-      - role: Java Developer
-        time: Sep 2018 - Jun 2019
-        company: Comarch
-        details: |
-          While developing a telcom full-stack system with Java-based frontend, I got acquainted with large corporation procedures and workflow.
-          I introduced the team to unit testing. For the project I have been developing new features, fixing bugs and deploying to multiple environments.
+          With the team we are responsible for adapting various advertisement servers into company's internal advertisement model.
+          We're creating fully asynchronous and concurrent system using Kafka and Kotlin. 
+          I also gained enormous knowledge and skills regarding quality assurance when I've been automating existing test suites and creating new ones providing easy to learn and adaptive test framework API for other developers.
 
       - role: Java Developer
         time: Jun 2019 - Aug 2021
@@ -86,13 +80,20 @@ experiences:
           I also worked out healthy and productive developer-tester relationships and got to know many common software development practices such as CI/CD, code reviews, code style and quality checks, system monitoring etc.
           I dug into Spring Boot and during this time I managed to resolved many framework-related issues making using it one of my greatest perks.
       
-      - role: Kotlin & Scala Developer
-        time: Aug 2021 - present
-        company: Schibsted Tech Polska
+      - role: Java Developer
+        time: Sep 2018 - Jun 2019
+        company: Comarch
         details: |
-          With the team we are responsible for adapting various advertisement servers into company's internal advertisement model.
-          We're creating fully asynchronous and concurrent system using Kafka and Kotlin. 
-          I also gained enormous knowledge and skills regarding quality assurance when I've been automating existing test suites and creating new ones providing easy to learn and adaptive test framework API for other developers.
+          While developing a telcom full-stack system with Java-based frontend, I got acquainted with large corporation procedures and workflow.
+          I introduced the team to unit testing. For the project I have been developing new features, fixing bugs and deploying to multiple environments.
+
+      - role: Intern & Junior Java Developer
+        time: Feb 2018 - Aug 2018
+        company: Softja & Kanga Exchange
+        details: |
+          During the first weeks of my employment I has been verified and delegated to a new and more complex project of cryptocurrency exchange platform.
+          Working with a small team I was responsible for implementing exchange orders matching algorithm as well as complete development of a backoffice application.
+          I gained my first experience with Actor Model based architecture and application deployment methods.
 
 skills:
     title: Skills &amp; Proficiency
@@ -100,28 +101,28 @@ skills:
     toolset:
     
       - name: Java
-        level: Expert
+        level: 100
 
       - name: Kotlin
-        level: Expert
+        level: 100
 
       - name: Flutter
-        level: Intermediate
+        level: 50
         
       - name: Spring Boot
-        level: Advanced
+        level: 75
       
       - name: PostgreSQL
-        level: Advanced
+        level: 75
 
       - name: Docker
-        level: Advanced
+        level: 75
 
       - name: AWS
-        level: Intermediate
+        level: 50
         
       - name: Functional Programming
-        level: Advanced
+        level: 75
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
