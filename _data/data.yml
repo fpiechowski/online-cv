@@ -63,7 +63,7 @@ education:
 experiences:
     title: Experiences
     info:
-    - role: Kotlin & Scala Developer
+      - role: Kotlin & Scala Developer
         time: Aug 2021 - present
         company: Schibsted Tech Polska
         details: |
