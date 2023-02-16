@@ -43,6 +43,8 @@ career-profile:
       Throughout those years I've made myself proficient with the most popular software development approaches, 
       from object-oriented to purely functional, from synchronous to asynchronous and reactive, and from monoliths to microservices and serverless.
       Recently I grow my skillset by adapting Flutter as the frontend solution in my toolbox to get acquainted with all software development areas.
+      For my side projects I had an opportunity to create cloud stacks using AWS as well as creating my own from open source tools such as ElasticStack and
+      Docker Swarm.
       
 education:
     title: Education
@@ -52,7 +54,7 @@ education:
         time: 2015 - 2019
         details: |
           Despite focusing mostly on programming knowledge and skills, 
-          I've managed to pass all of the subjects but never made a degree due to proficiency acquired early in the first job.
+          I've managed to pass all of the exams but never decided to get a degree due to proficiency acquired early in the first job.
 
 experiences:
     title: Experiences
@@ -70,9 +72,9 @@ experiences:
         company: Genesis Bluebird
         details: |
           It was my introduction to the whole iGaming industry. 
-          With the team we were integrating multiple different game provider APIs with our have-it-all online casino backend system.
+          With the team we were integrating multiple different game provider APIs with our versatile online casino backend system.
           I also worked out healthy and productive developer-tester relationships and got to know many common software development practices such as CI/CD, code reviews, code style and quality checks, system monitoring etc.
-          I dug into Spring Boot and during this time I managed to resolved many framework-related issues making using it one of my greatest perks.
+          I dug into Spring Boot and during this time I managed to resolved many framework-related issues making that one of my greatest perks.
       
       - role: Java Developer
         time: Sep 2018 - Jun 2019
