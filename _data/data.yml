@@ -42,9 +42,10 @@ career-profile:
       I've been developing backend services for years getting to know the best practices, technology stacks, and methodologies.
       Throughout those years I've made myself proficient with the most popular software development approaches, 
       from object-oriented to purely functional, from synchronous to asynchronous and reactive, and from monoliths to microservices and serverless.
-      Recently I grow my skillset by adapting Flutter as the frontend solution in my toolbox to get acquainted with all software development areas.
-      For my side projects I had an opportunity to create cloud stacks using AWS as well as creating my own from open source tools such as ElasticStack and
-      Docker Swarm.
+      Recently I grew my skillset by adapting Flutter as the frontend solution in my toolbox to get acquainted with all software development areas.
+      For my side projects, I had an opportunity to create cloud stacks using AWS as well as creating my own from open-source tools such as ElasticStack and
+      Docker Swarm. 
+      I am in touch with industry trends and I continuously get involved in researching new technology stacks.
       
 education:
     title: Education
@@ -54,7 +55,7 @@ education:
         time: 2015 - 2019
         details: |
           Despite focusing mostly on programming knowledge and skills, 
-          I've managed to pass all of the exams but never decided to get a degree due to proficiency acquired early in the first job.
+          I've managed to pass all the exams but never decided to get a degree due to proficiency acquired early in the first job.
 
 experiences:
     title: Experiences
@@ -63,9 +64,11 @@ experiences:
         time: Aug 2021 - present
         company: Schibsted Tech Polska
         details: |
-          With the team we are responsible for adapting various advertisement servers into company's internal advertisement model.
-          We're creating fully asynchronous and concurrent system using Kafka and Kotlin. 
-          I also gained enormous knowledge and skills regarding quality assurance when I've been automating existing test suites and creating new ones providing easy to learn and adaptive test framework API for other developers.
+          With the team, we are responsible for adapting various advertisement servers into the company's internal advertisement model.
+          We're creating a fully asynchronous and concurrent system using Kafka and purely functional Kotlin. 
+          I also gained enormous knowledge and skills regarding quality assurance when I've been automating existing test suites and creating new ones providing easy-to-learn and adaptive test framework API for other developers.
+          I've proven myself while mentoring an intern and presenting various subjects during internal organization workshops.
+          I spent additional time providing my team with custom developer utility tools, plugins, and services.
 
       - role: Java Developer
         time: Jun 2019 - Aug 2021
@@ -89,36 +92,38 @@ experiences:
         details: |
           During the first weeks of my employment I have been verified and delegated to a new and more complex project of cryptocurrency exchange platform.
           Working with a small team I was responsible for implementing exchange orders matching algorithm as well as complete development of a backoffice application.
+          I worked on integration with Ethereum blockchain API.
           I gained my first experience with Actor Model based architecture and application deployment methods.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-    
-      - name: Java
-        level: 100%
 
       - name: Kotlin
         level: 100%
 
-      - name: Flutter
+      - name: Functional Programming
+        level: 85%
+
+      - name: Frondend (Flutter / Jetpack Compose)
         level: 50%
+
+      - name: Java
+        level: 90%
         
       - name: Spring Boot
         level: 75%
       
       - name: PostgreSQL
-        level: 75%
+        level: 80%
 
       - name: Docker
-        level: 75%
+        level: 85%
 
       - name: AWS
-        level: 50%
-        
-      - name: Functional Programming
-        level: 75%
+        level: 60%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
