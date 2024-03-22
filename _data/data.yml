@@ -106,11 +106,14 @@ skills:
       - name: Functional Programming
         level: 85%
 
-      - name: Frondend (Flutter / Jetpack Compose)
-        level: 50%
-
       - name: Java
         level: 90%
+
+      - name: Rust
+        level: 25%
+
+      - name: Frontend (Flutter / Jetpack Compose)
+        level: 50%
         
       - name: Spring Boot
         level: 75%
