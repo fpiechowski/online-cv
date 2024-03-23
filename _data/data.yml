@@ -100,19 +100,19 @@ skills:
 
     toolset:
 
-      - name: Kotlin
+      - name: Kotlin & Java
         level: 100%
+
+      - name: Scala
+        level: 60%
 
       - name: Functional Programming
         level: 85%
 
-      - name: Java
-        level: 90%
-
-      - name: Rust
+      - name: Rust, Haskell
         level: 25%
 
-      - name: Frontend (Flutter / Jetpack Compose)
+      - name: Frondend (Flutter, Jetpack Compose)
         level: 50%
         
       - name: Spring Boot
