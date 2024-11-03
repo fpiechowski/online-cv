@@ -37,15 +37,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      From a startup to a corporation, then mid-size businesses. 
-      I'm able to adapt to any work environment providing the highest quality programming work.
-      I've been developing backend services for years getting to know the best practices, technology stacks, and methodologies.
-      Throughout those years I've made myself proficient with the most popular software development approaches, 
-      from object-oriented to purely functional, from synchronous to asynchronous and reactive, and from monoliths to microservices and serverless.
-      Recently I grew my skillset by adapting Flutter as the frontend solution in my toolbox to get acquainted with all software development areas.
-      For my side projects, I had an opportunity to create cloud stacks using AWS as well as creating my own from open-source tools such as ElasticStack and
-      Docker Swarm. 
-      I am in touch with industry trends and I continuously get involved in researching new technology stacks.
+        With experience spanning startups, corporations, and mid-sized businesses, I adapt to any work environment while delivering top-quality programming solutions. For years, I’ve developed robust backend services, mastering best practices, diverse tech stacks, and methodologies. I’m proficient in a range of software development approaches, from object-oriented to functional programming, synchronous to asynchronous and reactive processes, and monolithic to microservices and serverless architectures.
+        Recently, I broadened my skillset by integrating Flutter into my frontend development toolbox, giving me a full-stack perspective across software layers. My side projects have taken me deep into cloud technology, where I built cloud stacks using AWS and open-source tools like ElasticStack and Docker Swarm. In addition, my recent work with Unreal Engine and C++ has strengthened my capabilities in game development and high-performance systems.
+        I stay engaged with industry trends, continuously researching new technologies, and I actively participate in cross-team initiatives, sharing knowledge and fostering collaboration. I am driven by a commitment to innovation and adaptable solutions across the software landscape.
       
 education:
     title: Education
@@ -66,9 +60,10 @@ experiences:
         details: |
           With the team, we are responsible for adapting various advertisement servers into the company's internal advertisement model.
           We're creating a fully asynchronous and concurrent system using Kafka and purely functional Kotlin. 
-          I also gained enormous knowledge and skills regarding quality assurance when I've been automating existing test suites and creating new ones providing easy-to-learn and adaptive test framework API for other developers.
+          In this role I gained enormous knowledge and skills regarding quality assurance when I've been automating existing test suites and creating new ones providing easy-to-learn and adaptive test framework API for other developers.
           I've proven myself while mentoring an intern and presenting various subjects during internal organization workshops.
           I spent additional time providing my team with custom developer utility tools, plugins, and services.
+          Most recently I focused on cross-team initiatives and took the leading role in one of the new projects.
 
       - role: Java Developer
         time: Jun 2019 - Aug 2021
@@ -111,6 +106,9 @@ skills:
 
       - name: Rust, Haskell
         level: 25%
+
+      - name: Unreal Engine C++
+        level: 50%
 
       - name: Frondend (Flutter, Jetpack Compose)
         level: 50%
